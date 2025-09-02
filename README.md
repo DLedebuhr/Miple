@@ -1,16 +1,16 @@
-### _Projeto Final - Miple_
+## _Projeto Final - Miple_
 
 ***
 
 <img align="right" src="https://i.pinimg.com/736x/56/4b/02/564b02744b734c33bf946c042ca9e6f6.jpg" alt="Imagem 1" style="border-radius: 10px; margin: 5px;" width="70">
-<img align="right" src="https://i.pinimg.com/236x/9f/b1/e8/9fb1e8e85ab08839c49ad5143cf70114.jpg" alt="Imagem 2" style="border-radius: 10px; margin: 5px;" height="70">
-<img align="right" src="https://i.pinimg.com/736x/42/57/75/425775f47010855e31797f8f40efb694.jpg" alt="Imagem 3" style="border-radius: 10px; margin: 5px;" width="70">
 
-> _Componentes: DLedebuhr e henriquevalezad_ 
+> _Dienifer Bierhals Ledebuhr - DLedebuhr_ 
  
-> _Disciplina: Arquitetura e Organização de Computadores_
+> _Henrique Valeza Domingues - henriquevalezad_
 
 ***
+
+_Este repositório contém a implementação de um jogo chamado Miple, desenvolvido para a disciplina de Arquitetura e Organização de Computadores I, do curso de Ciência da Computação da Universidade Federal de Pelotas._
 
 ### _Descrição do Trabalho Proposto_
 
